@@ -1,4 +1,3 @@
 # chef-nuc
 
-TODO: Enter the cookbook description here.
-
+Install basic stuff on my Intel NUC server
