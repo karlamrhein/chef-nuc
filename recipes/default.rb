@@ -4,6 +4,7 @@
 #
 # Copyright (c) 2016 The Authors, All Rights Reserved.
 
+# package ['screen', 'xhost']
 package ['screen', 'xhost', 'xauth', 'epel-release', 'git']
 
 # Install chefdk
